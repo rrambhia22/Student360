@@ -1,4 +1,7 @@
-# Student360
+# Student360 
+https://rrambhia22-student360-app-54gmno.streamlitapp.com/
+
+
 Student 360 deals with analyzing the student performance based on the various external factors to determine the student dropout rate and predict the CGPA of the students.
 
 The exploration and analysis of student dataset helps to predict the possible dropouts and determine the significant factors affecting the eligibility of students to complete the course.
