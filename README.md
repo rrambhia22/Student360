@@ -6,13 +6,12 @@ The exploration and analysis of student dataset helps to predict the possible dr
 
 The various data processing steps implemented are:
 
-**1. Data Collection & Preparation**
-**2. Data Exploration (Exploratory Data Analysis)**
-**3. Data Cleaning**
-**4. Data Visualization**
-**5. Model Building (Predictive Analysis)**
-**6. Deployment**
-
+1. Data Collection & Preparation
+2. Data Exploration (Exploratory Data Analysis)
+3. Data Cleaning
+4. Data Visualization
+5. Model Building (Predictive Analysis)
+6. Deployment
 
 The machine learning models implemented are:
 
